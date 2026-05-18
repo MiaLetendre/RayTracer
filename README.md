@@ -1,7 +1,3 @@
-I have reformatted the documentation to use standard Markdown headers (`#`, `##`, `###`) and styling so it will render correctly as a `README.md` file on GitHub or any other Markdown reader.
-
----
-
 # JSON-Driven C++ Ray Tracer
 
 A raytracer that parses 3D scene environments entirely from JSON configurations, processes mathematical ray-surface geometry intersections using **Eigen**, implements a fully realized **Phong Shading model**, and exports rendered imagery directly into high-fidelity PPM formats.
